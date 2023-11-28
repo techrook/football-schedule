@@ -1,0 +1,16 @@
+{
+  "name": "football-shedule",
+  "version": "1.0.0",
+  "description": "An example of using web5 sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ITOHOWO MONDAY UMOH",
+  "license": "ISC",
+  "dependencies": {
+    "@web5/api": "0.8.2"
+  },
+  "type": "module"
+}
